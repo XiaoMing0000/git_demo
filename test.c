@@ -3,7 +3,7 @@
 int mian(int argc, char **args)
 {
 	printf("Hello World !!!/n");
-	printf("Hello Git !!!/n");
-	printf("33333333/n");
+	printf("22222/n");
+	printf("33333/n");
 	return 0;
 }
